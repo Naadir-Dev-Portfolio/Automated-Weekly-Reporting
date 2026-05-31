@@ -1,0 +1,18 @@
+{
+    "section":  "excelvba",
+    "category":  "vba-macros",
+    "n":  3,
+    "title":  "Automated Weekly Reporting",
+    "desc":  "An Excel reporting system that refreshes Power Queries, updates PivotTables, validates totals, generates dashboard sheets, exports PDF and Excel packs, and supports one-click weekly reporting.",
+    "code":  "https://github.com/Naadir-Dev-Portfolio/Automated-Weekly-Reporting/blob/main/README.md",
+    "details":  "https://github.com/Naadir-Dev-Portfolio/Automated-Weekly-Reporting/blob/main/README.md",
+    "tags":  [
+                 "Excel",
+                 "VBA",
+                 "Power Query",
+                 "PivotTables",
+                 "Reporting",
+                 "Weekly Reporting"
+             ]
+}
+
